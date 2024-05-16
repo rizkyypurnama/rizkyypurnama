@@ -4,7 +4,7 @@ I’m a passionate software developer with a love for creating innovative soluti
 Professional Background
 
     Experience: Over 1 years of experience in software development, working with both startups and established companies.
-    Specialties: Expertise in [list a few key technologies, languages, or frameworks you specialize in, JavaScript, Python, React, Html, Css, Php .].
+    Specialties: Expertise in JavaScript, Python, React, Html, Css, Php, Frappe Framework.
     Projects: Developed and contributed to numerous projects, including Web E-Commerce.
 
 
